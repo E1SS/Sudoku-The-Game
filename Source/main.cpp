@@ -1,11 +1,9 @@
 #include "sudoku.h"
 #include <QApplication>
-
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
 using namespace std;
-
 
 const int SIZE = 9;
 int sudoku[SIZE][SIZE];

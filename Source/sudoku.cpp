@@ -22,10 +22,7 @@ void Sudoku::on_push_Exit_clicked()
 
 void Sudoku::on_push_Check_clicked()
 {
-
       //  ui->textEdit_0->setText(QString::number(1));
-
-
 }
 
 void Sudoku::on_push_NewGame_clicked()
